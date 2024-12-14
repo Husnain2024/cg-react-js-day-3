@@ -7,7 +7,6 @@ export const Table = ()=>{
           <th>id</th>
           <th>name</th>
           <th>Roll number</th>
-          
         </tr>
       </thead>
       <tbody>
